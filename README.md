@@ -7,5 +7,3 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 0. Игра: Угадай число](https://github.com/belovengineer/data_science_learn/tree/main/project_0)
 * [Проект 1. ]()
 * [Проект 2. ]()
-
-## Ссылки на резюме
