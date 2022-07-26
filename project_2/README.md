@@ -21,7 +21,7 @@
 * Машинное обучение - Scikit-learn
 * Обработка естественного языка - Natural Language Toolkit
   
-:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_2/README.md#Оглавление)
 
 
 ### Какой кейс решаем?  
@@ -58,7 +58,7 @@
 * lat - широта отеля  
 * lng - долгота отеля  
   
-:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_2/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -85,19 +85,19 @@
     4.5. Проверяем признаки значимости  
 4. Обучение модели и анализ результатов  
 
-:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_2/README.md#Оглавление)
 
 
 ### Результаты:  
 Результат работы проекта - игра, в которой компьютер, благодаря применению бинарного поиска, угадывает загаданное число в среднем менее чем за 20 раз. В нашем случае, алгоритм угадывает число менее чем за 8 попыток.
 
-:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_2/README.md#Оглавление)
 
 
 ### Выводы:  
 В ходе работы над задачей применен самый эффективный алгоритм решения. Дальнейшие попытки уменьшить количество попыток не увенчались успехом (не смотря на то, что для данной задачи это уже было бы излишне).
 
-:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/belovengineer/data_science_learn/tree/main/project_2/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
